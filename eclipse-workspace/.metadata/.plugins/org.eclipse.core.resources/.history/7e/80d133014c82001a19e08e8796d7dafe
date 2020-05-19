@@ -1,0 +1,14 @@
+package cn.dianzi.middle;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int [] a= {2,3,4,5};
+		int [] b= {4,5,8,9};
+		ArrayMiddle arr=new ArrayMiddle(b,a);
+		int result=arr.getUpMedian();
+		System.out.println("中位数是："+result);
+	}
+
+}

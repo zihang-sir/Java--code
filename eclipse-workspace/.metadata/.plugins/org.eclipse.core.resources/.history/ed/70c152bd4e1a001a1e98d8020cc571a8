@@ -1,0 +1,10 @@
+package cn.itcast.chapter;
+
+public class Example21 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
